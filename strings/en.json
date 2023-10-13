@@ -1,0 +1,15 @@
+{
+    "all_menu": "Menu",
+    "all_play": "Play",
+    "all_score": "Score",
+    "all_credits": "Credits",
+    "all_setting": "Setting",
+    "all_quit": "Quit",
+    "all_settings": "Settings",
+    "all_back": "Back",
+    "setting_audio_toggle": "Audio Effects",
+    "setting_music_toggle": "Music",
+    "setting_language": "Language",
+    "setting_language_en": "English",
+    "setting_language_vi": "Vietnamese"
+}
